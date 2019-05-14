@@ -15,5 +15,4 @@ export class Tab1Page {
   agregarLista(){
     this.router.navigateByUrl('/tabs/tab1/agregar');
   }
-
 }
